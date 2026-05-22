@@ -91,6 +91,7 @@ Success confirmation message after registration
 “Register Another Account” button
 Responsive design for desktop and mobile devices
 SEO metadata for title and description
+
 Conclusion
 
 This project successfully demonstrates the creation of a multimedia/web-based application using HTML, CSS, and JavaScript. It combines front-end design, scripting, and responsive development to produce a functional and visually appealing signup page.
